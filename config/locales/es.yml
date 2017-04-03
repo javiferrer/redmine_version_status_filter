@@ -1,0 +1,4 @@
+# SSpanish strings go here for Rails i18n
+es:
+  # my_label: "My label"
+  field_version_status: Estado de la versión

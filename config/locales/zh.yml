@@ -1,0 +1,4 @@
+# Simplified Chinese strings go here for Rails i18n
+zh:
+  # my_label: "My label"
+  field_version_status: 目标版本状态
